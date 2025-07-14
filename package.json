@@ -1,0 +1,14 @@
+{
+  "name": "digsig",
+  "version": "0.0.1",
+  "description": "Digital signature tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --experimental-vm-modules"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.0.4"
+  }
+}
